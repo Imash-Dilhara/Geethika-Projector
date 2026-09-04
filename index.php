@@ -36,6 +36,8 @@
             </div>
         </div>
 
+        <h1 class= 'title'>How To Use HymnFlow</h1>
+
         <div class="modifySearchBox">
             <img src="assets/modify-search.png" alt="Modify Search">
             <div>
@@ -55,6 +57,26 @@
             <div>
                 <h2>Present with Power: Launching Your Presentation Slides</h2>
                 <p>Launch clean, professional, and distraction-free slides in a single click. Features include optimal font choices for congregation readability, multiple slide layout options, subtle background graphics, and seamless transitions between hymns to support worship leaders.</p>
+            </div>
+        </div>
+
+        <h1 class="title">Status</h1>
+
+        <div class="quickSection">
+            <div>
+                <img src="assets/group-icon.png" alt="Group Icon">
+                <h3>500+</h3>
+                <p>Hymns Available</p>
+            </div>
+            <div>
+                <img src="assets/playlist-icon.png" alt="Play List Icon">
+                <h3>100+</h3>
+                <p>Playlists Created</p>
+            </div>
+            <div>
+                <img src="assets/free-icon.png" alt="Free Icon">
+                <h3>100%</h3>
+                <p>Free to Use</p>
             </div>
         </div>
     </div>
