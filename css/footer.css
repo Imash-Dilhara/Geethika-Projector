@@ -5,11 +5,12 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding: 30px 0;
 }
 
 .componentsBox{
     display: flex;
-    width: 90%;
+    width: 80%;
     padding: 10px 50px;
     justify-content: space-between;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -49,7 +50,7 @@ a:hover{
 }
 
 hr{
-    width: 95%;
+    width: 90%;
     border: 1px solid rgba(255, 255, 255, 0.2);
     margin: 20px 0;
 }
