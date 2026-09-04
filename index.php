@@ -35,6 +35,28 @@
                 </div>
             </div>
         </div>
+
+        <div class="modifySearchBox">
+            <img src="assets/modify-search.png" alt="Modify Search">
+            <div>
+                <h2>Master Your Search: The Journey of Discovery</h2>
+                <p>Use the advanced search capabilities to find songs by title, keywords, lyrical themes, meter, and liturgical season. The system works to deliver precise matches from our vast repository, ranging from foundational chants to contemporary praises, complete with quick previews for lyrics and tunes.</p>
+            </div>
+        </div>
+        <div class="modifySearchBox">
+            <img src="assets/select-icon.png" alt="select icon">
+            <div>
+                <h2>Curate Your Collection: Creating a Perfect Hymn Slot</h2>
+                <p>The 10-song slot system allows you to build curated lists for different church services (e.g., Sunday Service, Communion, Advent, or Festive Celebrations). Effortlessly add hymns, customize their sequence, and save your custom slots to match your service flow perfectly.</p>
+            </div>
+        </div>
+        <div class="modifySearchBox">
+            <img src="assets/presentation-icon.png" alt="presentation icon">
+            <div>
+                <h2>Present with Power: Launching Your Presentation Slides</h2>
+                <p>Launch clean, professional, and distraction-free slides in a single click. Features include optimal font choices for congregation readability, multiple slide layout options, subtle background graphics, and seamless transitions between hymns to support worship leaders.</p>
+            </div>
+        </div>
     </div>
 
     <footer>
