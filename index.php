@@ -12,6 +12,21 @@
         <?php include 'components/navigationBar.html'; ?>
     </header>
 
+    <div class="contentBox">
+        <div class="searchBox">
+            <input type="text" class="searchBar" placeholder="Search for a hymn...">
+            <img src="assets/search-icon.png" class="searchIcon" alt="Search Icon">
+        </div>
+        <div class="sideBox">
+            <div class="left">
+                <h1 class="boxName">View Hymns</h1>
+            </div>
+            <div class="right">
+                <h1 class="boxName">Create Hymn Slot</h1>
+            </div>
+        </div>
+    </div>
+
     <footer>
         <?php include 'components/footer.html'; ?>
     </footer>
