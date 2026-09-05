@@ -127,11 +127,29 @@ body{
 
 .modifySearchBox{
     display: flex;
+    position: relative;
     width: 80%;
+    padding-left: 30px;
     justify-content: center;
     align-items: center;
     gap: 30px;
     margin: 40px 0;
+}
+
+.modifySearchBox::after{
+    content: '';
+    position: absolute;
+    left: 0;
+    width: 10px;
+    height: 100%;
+    background-color: rgb(127, 127, 249);
+    transform: scaleY(0);
+    transform-origin: center;
+    transition: transform 0.5s ease-in-out;
+}
+
+.modifySearchBox:hover::after{
+    transform: scaleY(1);
 }
 
 .modifySearchBox img{
