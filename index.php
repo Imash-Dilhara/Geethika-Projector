@@ -79,6 +79,8 @@
                 <p>Free to Use</p>
             </div>
         </div>
+        <p class="bibleTitle">"Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts."</p>
+        <p class="biblePart">Colossians 3:16</p>
     </div>
 
     <footer>

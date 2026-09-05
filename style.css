@@ -125,6 +125,10 @@ body{
     font-size: 18px;
 }
 
+.boxName{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .modifySearchBox{
     display: flex;
     position: relative;
@@ -216,4 +220,19 @@ body{
 .quickSection div:hover h3 , .quickSection div:hover p{
     color: white;
     transition: 0.7s;
+}
+
+.bibleTitle{
+    font-family: cursive;
+    color: rgba(0, 0, 0, 0.534);
+    width: 40%;
+    font-size: 18px;
+}
+
+.biblePart{
+    color: rgb(127, 127, 249);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin-top: -10px;
+    margin-bottom: 100px;
 }
