@@ -74,25 +74,24 @@ body{
     margin: 50px 0;
 }
 
-.left,.right{
-    width: 45%;
+.left,.right ,.add{
+    width: 30%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.429);
     border-radius: 15px;
     transition: 0.5s;
 }
 
-.left:hover , .right:hover{
+.left:hover , .right:hover , .add:hover{
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.669);
     cursor: pointer;
 }
 
-.left:hover h1 , .right:hover h1{
-    color: rgb(127, 127, 249);
+.left:hover h1 , .right:hover h1 , .add:hover h1{
+    color: rgb(77, 77, 190);
     transition: 0.6s;
-    text-decoration: underline;
 }
 
-.left p , .right p{
+.left p , .right p , .add p{
     color: rgba(252, 251, 251, 0.6);
 }
 
@@ -102,7 +101,7 @@ body{
     background-position: center;
 }
 
-.left div,.right div{
+.left div,.right div , .add div{
     background-color: rgba(0, 0, 0, 0.4);
     color: white;
     display: flex;
@@ -119,11 +118,19 @@ body{
     background-position: center;
 }
 
-.left div h3, .right div h3{
+.add{
+    background-image: url('assets/add-side-slot.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.left div h3, .right div h3 , .add div h3{
     font-family: monospace;
-    color:rgb(127, 127, 249);
+    color:white;
     font-size: 18px;
 }
+
+
 
 .boxName{
     font-family: Verdana, Geneva, Tahoma, sans-serif;

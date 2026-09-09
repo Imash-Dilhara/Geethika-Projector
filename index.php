@@ -20,6 +20,13 @@
             <img src="assets/search-icon.png" class="searchIcon" alt="Search Icon">
         </div>
         <div class="sideBox">
+            <div class = "add">
+                <div>
+                    <h1 class = "boxName">Add Hymn</h1>
+                    <p>"Contribute to our growing library by adding new hymns. Click here to input song details, lyrics, and make them available for everyone."</p>
+                    <h3>Click Here</h3>
+                </div>
+            </div>
             <div class="left">
                 <div>
                     <h1 class="boxName">View Hymns</h1>
